@@ -1,0 +1,14 @@
+.customButton {
+  font-family: "Montserrat";
+  cursor: pointer;
+  background-color: #2f80ed;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 5px;
+  transition: 300ms ease-in-out;
+
+  &:hover {
+    background-color: darken(#2f80ed, 20%);
+  }
+}

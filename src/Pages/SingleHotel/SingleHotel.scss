@@ -1,0 +1,23 @@
+.hotelContainer {
+  margin: 30px 0px;
+}
+
+.carousel {
+  max-width: 700px;
+  margin: auto;
+}
+
+.overviewContainer {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  h5 {
+    font-weight: 600;
+  }
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

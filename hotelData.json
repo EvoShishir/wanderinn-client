@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Resort & Spa",
+    "coverImage": "https://images.unsplash.com/photo-1509927639005-b822b0b5b750?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Paradise Island, Bahamas",
+    "bio": "Escape to our luxurious resort and spa located on the breathtaking Paradise Island. Enjoy stunning ocean views, world-class amenities, and personalized service.",
+    "price": "$500 per night",
+    "reviewRating": {
+      "average": 4.8,
+      "totalReviews": 150
+    }
+  },
+  {
+    "id": 2,
+    "name": "Seaside Boutique Hotel",
+    "coverImage": "https://images.unsplash.com/photo-1524514419275-fa942a023c92?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Cape Town, South Africa",
+    "bio": "Experience the charm of Cape Town at our seaside boutique hotel. Relax in stylish accommodations, savor gourmet cuisine, and explore the vibrant city and stunning coastline.",
+    "price": "$300 per night",
+    "reviewRating": {
+      "average": 4.5,
+      "totalReviews": 120
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mountain Lodge Retreat",
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Banff National Park, Canada",
+    "bio": "Nestled in the heart of Banff National Park, our mountain lodge retreat offers cozy accommodations, breathtaking views, and access to outdoor adventures year-round.",
+    "price": "$250 per night",
+    "reviewRating": {
+      "average": 4.6,
+      "totalReviews": 100
+    }
+  },
+  {
+    "id": 4,
+    "name": "Urban Boutique Hotel",
+    "coverImage": "https://images.unsplash.com/photo-1472510771109-39b92752a6b9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "New York City, USA",
+    "bio": "Discover the vibrant energy of New York City at our urban boutique hotel. Experience luxury accommodations, exceptional dining, and easy access to iconic attractions.",
+    "price": "$400 per night",
+    "reviewRating": {
+      "average": 4.7,
+      "totalReviews": 180
+    }
+  },
+  {
+    "id": 5,
+    "name": "Tropical Beach Resort",
+    "coverImage": "https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?q=80&w=1518&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Maui, Hawaii",
+    "bio": "Indulge in paradise at our tropical beach resort located on the beautiful island of Maui. Experience laid-back luxury, pristine beaches, and unforgettable sunsets.",
+    "price": "$600 per night",
+    "reviewRating": {
+      "average": 4.9,
+      "totalReviews": 200
+    }
+  },
+  {
+    "id": 6,
+    "name": "Historic European Hotel",
+    "coverImage": "https://plus.unsplash.com/premium_photo-1661964298224-7747aa0ac10c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Paris, France",
+    "bio": "Immerse yourself in history and elegance at our historic European hotel in the heart of Paris. Experience timeless charm, impeccable service, and iconic landmarks.",
+    "price": "$350 per night",
+    "reviewRating": {
+      "average": 4.6,
+      "totalReviews": 150
+    }
+  },
+  {
+    "id": 7,
+    "name": "Safari Lodge Adventure",
+    "coverImage": "https://plus.unsplash.com/premium_photo-1672097247893-4f8660247b1f?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Kruger National Park, South Africa",
+    "bio": "Embark on an unforgettable safari adventure at our lodge nestled in the heart of Kruger National Park. Experience wildlife encounters, guided safaris, and luxury accommodations.",
+    "price": "$450 per night",
+    "reviewRating": {
+      "average": 4.8,
+      "totalReviews": 170
+    }
+  },
+  {
+    "id": 8,
+    "name": "Cozy Mountain Cabin",
+    "coverImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Aspen, Colorado, USA",
+    "bio": "Escape to our cozy mountain cabin nestled in the scenic beauty of Aspen. Experience rustic charm, outdoor activities, and relaxation in nature.",
+    "price": "$200 per night",
+    "reviewRating": {
+      "average": 4.4,
+      "totalReviews": 90
+    }
+  },
+  {
+    "id": 9,
+    "name": "Modern City Hotel",
+    "coverImage": "https://images.unsplash.com/photo-1504652517000-ae1068478c59?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Tokyo, Japan",
+    "bio": "Discover the dynamic city of Tokyo at our modern city hotel. Enjoy sleek accommodations, innovative cuisine, and unparalleled hospitality.",
+    "price": "$380 per night",
+    "reviewRating": {
+      "average": 4.7,
+      "totalReviews": 160
+    }
+  },
+  {
+    "id": 10,
+    "name": "Desert Oasis Resort",
+    "coverImage": "https://images.unsplash.com/photo-1549875648-357fef68fec7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Dubai, United Arab Emirates",
+    "bio": "Experience luxury in the desert at our oasis resort in Dubai. Enjoy world-class amenities, Arabian hospitality, and stunning desert landscapes.",
+    "price": "$700 per night",
+    "reviewRating": {
+      "average": 4.9,
+      "totalReviews": 190
+    }
+  }
+]

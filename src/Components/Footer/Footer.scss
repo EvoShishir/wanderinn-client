@@ -1,0 +1,19 @@
+.footerContainer {
+  background-color: whitesmoke;
+  border-top: 1px solid #2f80ed;
+  padding: 50px 0px;
+}
+
+.footerItems {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+  h1 {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  p {
+    font-weight: 500;
+  }
+}

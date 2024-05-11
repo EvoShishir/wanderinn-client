@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "name": "Luxury Resort & Spa",
+  "images": [
+    "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?q=80&w=1437&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "reviewRating": {
+    "average": 4.9,
+    "totalReviews": 200
+  },
+  "location": "Paradise Island, Bahamas",
+  "bio": "Escape to our luxurious resort and spa located on the breathtaking Paradise Island. Enjoy stunning ocean views, world-class amenities, and personalized service.",
+  "price": "$500 per night",
+  "overview": {
+    "description": "Our luxury resort and spa offer a serene escape on Paradise Island. Nestled among lush tropical gardens and overlooking the crystal-clear waters of the Caribbean Sea, our resort is the ultimate destination for relaxation and rejuvenation.",
+    "amenities": [
+      "Private beach access",
+      "Multiple swimming pools",
+      "Luxurious spa with a wide range of treatments",
+      "Fitness center and yoga classes",
+      "Fine dining restaurants and bars",
+      "Water sports activities",
+      "Kids' club and family-friendly activities"
+    ],
+    "activities": [
+      "Snorkeling and scuba diving",
+      "Island excursions and sightseeing tours",
+      "Golf at nearby championship courses",
+      "Sunset cruises and boat trips",
+      "Shopping and nightlife in Nassau"
+    ]
+  }
+}
