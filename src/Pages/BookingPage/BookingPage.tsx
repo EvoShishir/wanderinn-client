@@ -27,7 +27,7 @@ const BookingPage = () => {
   return (
     <Layout>
       <section className="section bookingContainer">
-        {hotels.map((hotel) => (
+        {hotels.map((hotel: Hotel) => (
           <div className="bookingHotel" key={hotel?.id}>
             <div key={hotel?.id} className="imageContainer">
               <img src={hotel?.coverImage} alt={hotel?.name} />

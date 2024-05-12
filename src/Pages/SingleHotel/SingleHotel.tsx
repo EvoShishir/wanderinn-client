@@ -109,7 +109,7 @@ const SingleHotel = () => {
               </div>
               <CustomButton
                 onClick={() => handleBooking(singleHotel)}
-                text="Book This Hotel"
+                text="Book This Room"
               />
             </>
           )}
