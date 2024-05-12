@@ -1,4 +1,3 @@
-import React from "react";
 import Layout from "../../Components/Layout/Layout";
 import { useAppDispatch, useAppSelector } from "../../Redux/hooks";
 import { RootState } from "../../Redux/store";

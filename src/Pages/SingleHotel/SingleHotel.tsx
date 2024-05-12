@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import hotelDescription from "../../../hotelData.json";
 import Layout from "../../Components/Layout/Layout";
 import Carousel from "react-material-ui-carousel";

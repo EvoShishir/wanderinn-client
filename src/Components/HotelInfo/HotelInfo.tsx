@@ -1,5 +1,4 @@
 import { Rating } from "@mui/material";
-import React from "react";
 import { CiLocationOn } from "react-icons/ci";
 
 type Props = {

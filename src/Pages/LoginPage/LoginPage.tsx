@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import CustomButton from "../../Components/Core/CustomButton/CustomButton";
 import toast from "react-hot-toast";
 import Layout from "../../Components/Layout/Layout";

@@ -1,4 +1,3 @@
-import React from "react";
 import area1 from "/area1.png";
 import area2 from "/area2.png";
 import area3 from "/area3.png";

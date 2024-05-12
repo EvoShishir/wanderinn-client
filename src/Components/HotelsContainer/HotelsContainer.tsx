@@ -1,4 +1,3 @@
-import React from "react";
 import CustomButton from "../Core/CustomButton/CustomButton";
 import "./HotelsContainer.scss";
 import HotelInfo from "../HotelInfo/HotelInfo";

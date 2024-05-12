@@ -1,4 +1,3 @@
-import React from "react";
 import hotel1 from "/hotel1.png";
 import hotel2 from "/hotel2.png";
 import hotel3 from "/hotel3.png";

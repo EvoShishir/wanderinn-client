@@ -1,4 +1,3 @@
-import React from "react";
 import "./Navbar.scss";
 import { BiSolidPlaneAlt } from "react-icons/bi";
 import CustomButton from "../Core/CustomButton/CustomButton";

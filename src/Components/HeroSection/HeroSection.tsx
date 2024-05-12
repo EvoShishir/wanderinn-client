@@ -1,4 +1,3 @@
-import React from "react";
 import heroImage from "/heroimage.png";
 import SearchBar from "../SearchBar/SearchBar";
 import "./HeroSection.scss";

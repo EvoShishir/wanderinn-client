@@ -1,4 +1,3 @@
-import React from "react";
 import { BiSolidPlaneAlt } from "react-icons/bi";
 import "./Footer.scss";
 
