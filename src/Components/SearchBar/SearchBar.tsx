@@ -1,3 +1,4 @@
+import toast from "react-hot-toast";
 import CustomButton from "../Core/CustomButton/CustomButton";
 import "./SearchBar.scss";
 
@@ -17,7 +18,12 @@ const SearchBar = () => {
           <h1 className="searchBarDateTitle">Check Out Date</h1>
           <input type="Date" />
         </div>
-        <CustomButton text="Search" />
+        <CustomButton
+          onClick={() => {
+            toast.success("Feature coming soon!");
+          }}
+          text="Search"
+        />
       </div>
     </section>
   );
