@@ -6,6 +6,7 @@ import LoginPage from "./Pages/LoginPage/LoginPage";
 import { Toaster } from "react-hot-toast";
 import Hotels from "./Pages/Hotels/Hotels";
 import SingleHotel from "./Pages/SingleHotel/SingleHotel";
+import BookingPage from "./Pages/BookingPage/BookingPage";
 
 function App() {
   const router = createBrowserRouter([
@@ -24,6 +25,10 @@ function App() {
     {
       path: "/hotels/:id",
       element: <SingleHotel />,
+    },
+    {
+      path: "/bookings",
+      element: <BookingPage />,
     },
   ]);
   return (

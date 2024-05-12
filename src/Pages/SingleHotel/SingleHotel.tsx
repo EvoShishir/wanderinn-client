@@ -8,9 +8,7 @@ import HotelInfo from "../../Components/HotelInfo/HotelInfo";
 import CustomButton from "../../Components/Core/CustomButton/CustomButton";
 import { useParams } from "react-router-dom";
 import toast from "react-hot-toast";
-import { useDispatch } from "react-redux";
 import { useAppDispatch } from "../../Redux/hooks";
-import { increment, incrementByAmount } from "../../Redux/features/bookHotel";
 import { ADD_HOTEL } from "../../Redux/reducerTypings";
 
 export type Hotel =
@@ -38,7 +36,6 @@ const SingleHotel = () => {
   const [singleHotel, setSingleHotel] = useState<Hotel>();
   const hotels = hotelDescription;
   const { id } = useParams();
-  // const dispatch = useDispatch();
   const dispatch = useAppDispatch();
 
   useEffect(() => {
@@ -55,7 +52,12 @@ const SingleHotel = () => {
   };
 
   const handleBooking = (hotel: Hotel) => {
-    dispatch({ type: ADD_HOTEL, payload: hotel });
+    try {
+      dispatch({ type: ADD_HOTEL, payload: hotel });
+      toast.success("Booking Successful!");
+    } catch (error) {
+      toast.error(`${error}`);
+    }
   };
 
   return (

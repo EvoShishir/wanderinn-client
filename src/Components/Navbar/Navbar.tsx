@@ -17,7 +17,7 @@ const Navbar = () => {
     },
     {
       key: "3",
-      label: <a href="#">About</a>,
+      label: <a href="/bookings">Bookings</a>,
     },
     {
       key: "4",
@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className="linkContainer">
           <a href="/">Home</a>
           <a href="/hotels">Discover</a>
-          <a href="#">About</a>
+          <a href="/bookings">Bookings</a>
           <a href="#">Contact</a>
         </div>
         <div className="loginBtn">

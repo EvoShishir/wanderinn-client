@@ -19,7 +19,7 @@ const LoginPage = () => {
   return (
     <Layout>
       <div className="loginContainer">
-        <form onSubmit={handleLogin} className="loginForm">
+        <div className="loginForm">
           <h2 className="text-2xl font-bold mb-4">Login</h2>
           <input
             type="email"
@@ -35,10 +35,8 @@ const LoginPage = () => {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
-          {/* <div onClick={handleLogin} className="submitButton"> */}
-          <CustomButton type="submit" text="Continue with email" />
-          {/* </div> */}
-        </form>
+          <CustomButton onClick={handleLogin} text="Continue with email" />
+        </div>
       </div>
     </Layout>
   );
