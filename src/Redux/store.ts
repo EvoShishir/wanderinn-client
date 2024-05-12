@@ -3,7 +3,7 @@ import { persistStore, persistReducer } from "redux-persist";
 import storage from "redux-persist/lib/storage";
 import { hotelReducer } from "./features/bookHotel";
 
-const reducers = combineReducers({
+const reducers: any = combineReducers({
   hotels: hotelReducer,
 });
 
