@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import CustomButton from "../../Components/Core/CustomButton/CustomButton";
 import toast from "react-hot-toast";
 import Layout from "../../Components/Layout/Layout";
-import "./LoginPage.scss"; // Import SCSS file
+import "./LoginPage.scss";
 
 const LoginPage = () => {
   const [email, setEmail] = useState("");
@@ -19,7 +19,7 @@ const LoginPage = () => {
   return (
     <Layout>
       <div className="loginContainer">
-        <div className="loginForm">
+        <form onSubmit={handleLogin} className="loginForm">
           <h2 className="text-2xl font-bold mb-4">Login</h2>
           <input
             type="email"
@@ -35,10 +35,10 @@ const LoginPage = () => {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
-          <div onClick={handleLogin} className="submitButton">
-            <CustomButton styles="w-full" text="Continue with email" />
-          </div>
-        </div>
+          {/* <div onClick={handleLogin} className="submitButton"> */}
+          <CustomButton type="submit" text="Continue with email" />
+          {/* </div> */}
+        </form>
       </div>
     </Layout>
   );

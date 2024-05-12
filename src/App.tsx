@@ -22,7 +22,7 @@ function App() {
       element: <Hotels />,
     },
     {
-      path: "/hotels/single-hotel",
+      path: "/hotels/:id",
       element: <SingleHotel />,
     },
   ]);

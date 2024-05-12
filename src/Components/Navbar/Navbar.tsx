@@ -30,6 +30,10 @@ const Navbar = () => {
     },
   ];
 
+  const handleClick = () => {
+    window.location.href = "/login";
+  };
+
   return (
     <section className="section">
       <div className="navContainer">
@@ -44,7 +48,7 @@ const Navbar = () => {
           <a href="#">Contact</a>
         </div>
         <div className="loginBtn">
-          <CustomButton text="Login" redirect="/login" />
+          <CustomButton text="Login" onClick={handleClick} />
         </div>
         <div className="mobileMenu">
           <Dropdown

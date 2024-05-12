@@ -3,120 +3,361 @@
     "id": 1,
     "name": "Luxury Resort & Spa",
     "coverImage": "https://images.unsplash.com/photo-1509927639005-b822b0b5b750?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661843652801-66305e3c980c?q=80&w=1437&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Paradise Island, Bahamas",
     "bio": "Escape to our luxurious resort and spa located on the breathtaking Paradise Island. Enjoy stunning ocean views, world-class amenities, and personalized service.",
     "price": "$500 per night",
     "reviewRating": {
       "average": 4.8,
       "totalReviews": 150
+    },
+    "overview": {
+      "description": "Our luxury resort and spa offer a serene escape on Paradise Island. Nestled among lush tropical gardens and overlooking the crystal-clear waters of the Caribbean Sea, our resort is the ultimate destination for relaxation and rejuvenation.",
+      "amenities": [
+        "Private beach access",
+        "Multiple swimming pools",
+        "Luxurious spa with a wide range of treatments",
+        "Fitness center and yoga classes",
+        "Fine dining restaurants and bars",
+        "Water sports activities",
+        "Kids' club and family-friendly activities"
+      ],
+      "activities": [
+        "Snorkeling and scuba diving",
+        "Island excursions and sightseeing tours",
+        "Golf at nearby championship courses",
+        "Sunset cruises and boat trips",
+        "Shopping and nightlife in Nassau"
+      ]
     }
   },
   {
     "id": 2,
     "name": "Seaside Boutique Hotel",
     "coverImage": "https://images.unsplash.com/photo-1524514419275-fa942a023c92?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661877303180-19a028c21048?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1667199608149-cd24e523ee98?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1564540583246-934409427776?q=80&w=2053&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Cape Town, South Africa",
     "bio": "Experience the charm of Cape Town at our seaside boutique hotel. Relax in stylish accommodations, savor gourmet cuisine, and explore the vibrant city and stunning coastline.",
     "price": "$300 per night",
     "reviewRating": {
       "average": 4.5,
       "totalReviews": 120
+    },
+    "overview": {
+      "description": "Seaside Boutique Hotel offers a tranquil escape overlooking the azure waters of the Atlantic Ocean. Nestled in the heart of Cape Town, our hotel provides an oasis of luxury and relaxation. Indulge in delectable seafood dishes at our beachfront restaurant, rejuvenate your senses with a spa treatment, or embark on an adventure to Table Mountain.",
+      "amenities": [
+        "Oceanfront rooms with balcony",
+        "Beach access with water sports rentals",
+        "Fine dining restaurant with sea views",
+        "Full-service spa and wellness center",
+        "Outdoor pool and sundeck",
+        "Concierge service and tour assistance",
+        "Complimentary Wi-Fi"
+      ],
+      "activities": [
+        "Hiking and nature walks",
+        "Wine tasting tours in nearby vineyards",
+        "Boat cruises to Seal Island",
+        "Cultural tours of Robben Island",
+        "Shopping and dining in Cape Town's city center"
+      ]
     }
   },
   {
     "id": 3,
     "name": "Mountain Lodge Retreat",
     "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1498409505433-aff66f7ba9e6?q=80&w=1930&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Banff National Park, Canada",
     "bio": "Nestled in the heart of Banff National Park, our mountain lodge retreat offers cozy accommodations, breathtaking views, and access to outdoor adventures year-round.",
     "price": "$250 per night",
     "reviewRating": {
       "average": 4.6,
       "totalReviews": 100
+    },
+    "overview": {
+      "description": "Escape to the serene wilderness of Banff National Park at Mountain Lodge Retreat. Surrounded by towering peaks and lush forests, our lodge offers the perfect blend of rustic charm and modern comfort. Explore the park's hiking trails, spot wildlife from your balcony, or unwind by the fireplace in our cozy lounge.",
+      "amenities": [
+        "Rustic log cabins and suites",
+        "On-site restaurant serving local cuisine",
+        "Guided hiking and wildlife tours",
+        "Outdoor hot tub with mountain views",
+        "Ski storage and equipment rental",
+        "Campfire nights with s'mores",
+        "Free shuttle to Banff town center"
+      ],
+      "activities": [
+        "Skiing and snowboarding in winter",
+        "Hiking and mountain biking in summer",
+        "Rafting and canoeing on Bow River",
+        "Gondola rides to Sulphur Mountain",
+        "Ice skating on frozen lakes"
+      ]
     }
   },
   {
     "id": 4,
     "name": "Urban Boutique Hotel",
     "coverImage": "https://images.unsplash.com/photo-1472510771109-39b92752a6b9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "New York City, USA",
     "bio": "Discover the vibrant energy of New York City at our urban boutique hotel. Experience luxury accommodations, exceptional dining, and easy access to iconic attractions.",
     "price": "$400 per night",
     "reviewRating": {
       "average": 4.7,
       "totalReviews": 180
+    },
+    "overview": {
+      "description": "Immerse yourself in the heart of Manhattan's bustling energy at Urban Boutique Hotel. Located in the vibrant Midtown district, our hotel offers chic accommodations and personalized service. Explore nearby attractions such as Times Square, Central Park, and Broadway, or unwind with a cocktail at our rooftop bar overlooking the iconic city skyline.",
+      "amenities": [
+        "Modern rooms with city views",
+        "Rooftop bar and lounge",
+        "Fitness center with skyline views",
+        "Business center and meeting rooms",
+        "Concierge service and tour desk",
+        "Complimentary continental breakfast",
+        "Valet parking and car rental"
+      ],
+      "activities": [
+        "Broadway shows and theater performances",
+        "Shopping on Fifth Avenue",
+        "Museum visits, including MoMA and MET",
+        "Central Park carriage rides",
+        "Helicopter tours over Manhattan"
+      ]
     }
   },
+
   {
     "id": 5,
     "name": "Tropical Beach Resort",
     "coverImage": "https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?q=80&w=1518&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Maui, Hawaii",
     "bio": "Indulge in paradise at our tropical beach resort located on the beautiful island of Maui. Experience laid-back luxury, pristine beaches, and unforgettable sunsets.",
     "price": "$600 per night",
     "reviewRating": {
       "average": 4.9,
       "totalReviews": 200
+    },
+    "overview": {
+      "description": "Escape to a slice of paradise at Tropical Beach Resort on Maui's stunning coastline. Nestled amidst swaying palm trees and turquoise waters, our resort offers a tranquil retreat for those seeking relaxation and adventure. Enjoy snorkeling in pristine coral reefs, lounging on sun-kissed beaches, or exploring the island's lush rainforests and waterfalls.",
+      "amenities": [
+        "Beachfront villas and suites",
+        "Infinity pool with ocean views",
+        "Beachside bar and grill",
+        "Water sports equipment rentals",
+        "Luxury spa with Hawaiian-inspired treatments",
+        "Yoga and meditation classes",
+        "Kids' club and family activities"
+      ],
+      "activities": [
+        "Whale watching tours (seasonal)",
+        "Hiking in Haleakalā National Park",
+        "Sunset cruises along the coast",
+        "Helicopter tours of the island",
+        "Shopping and dining in Lahaina town"
+      ]
     }
   },
   {
     "id": 6,
     "name": "Historic European Hotel",
     "coverImage": "https://plus.unsplash.com/premium_photo-1661964298224-7747aa0ac10c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1568495248636-6432b97bd949?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1689609949898-5f7a10649fef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Paris, France",
     "bio": "Immerse yourself in history and elegance at our historic European hotel in the heart of Paris. Experience timeless charm, impeccable service, and iconic landmarks.",
     "price": "$350 per night",
     "reviewRating": {
       "average": 4.6,
       "totalReviews": 150
+    },
+    "overview": {
+      "description": "Step into a world of sophistication and grandeur at the Historic European Hotel in Paris. Situated amidst the city's architectural wonders and cultural landmarks, our hotel offers a blend of old-world charm and modern comfort. Experience the romance of Parisian boulevards, savor gourmet cuisine in Michelin-starred restaurants, or embark on a journey through art and history in world-renowned museums.",
+      "amenities": [
+        "Elegant rooms and suites with Parisian views",
+        "Fine dining restaurant and cocktail bar",
+        "Concierge service and guided tours",
+        "Luxury spa and wellness center",
+        "Afternoon tea in the grand salon",
+        "Meeting and event spaces",
+        "Complimentary Wi-Fi"
+      ],
+      "activities": [
+        "Guided walking tours of historic neighborhoods",
+        "Cruise along the Seine River",
+        "Visit iconic landmarks like the Eiffel Tower and Louvre Museum",
+        "Explore Montmartre and Sacré-Cœur Basilica",
+        "Shopping on Champs-Élysées"
+      ]
     }
   },
   {
     "id": 7,
     "name": "Safari Lodge Adventure",
     "coverImage": "https://plus.unsplash.com/premium_photo-1672097247893-4f8660247b1f?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1631049421450-348ccd7f8949?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Kruger National Park, South Africa",
     "bio": "Embark on an unforgettable safari adventure at our lodge nestled in the heart of Kruger National Park. Experience wildlife encounters, guided safaris, and luxury accommodations.",
     "price": "$450 per night",
     "reviewRating": {
       "average": 4.8,
       "totalReviews": 170
+    },
+    "overview": {
+      "description": "Discover the untamed beauty of Kruger National Park at Safari Lodge Adventure, where wilderness meets luxury. Set amidst the African savannah, our lodge offers an immersive safari experience with sightings of the Big Five and other exotic wildlife. Unwind in spacious tents or luxurious suites, dine under the stars, and embark on thrilling game drives led by expert guides.",
+      "amenities": [
+        "Luxury tents and suites with private decks",
+        "Open-air dining under the African sky",
+        "Swimming pool overlooking the bushveld",
+        "Bush walks and birdwatching",
+        "Stargazing and storytelling around the campfire",
+        "Safari spa treatments",
+        "Complimentary safari guidebooks"
+      ],
+      "activities": [
+        "Morning and evening game drives",
+        "Bush breakfasts and sundowners",
+        "Cultural visits to local villages",
+        "Photographic safaris and workshops",
+        "Hot air balloon safaris over the park"
+      ]
     }
   },
   {
     "id": 8,
     "name": "Cozy Mountain Cabin",
     "coverImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1587985064135-0366536eab42?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Aspen, Colorado, USA",
     "bio": "Escape to our cozy mountain cabin nestled in the scenic beauty of Aspen. Experience rustic charm, outdoor activities, and relaxation in nature.",
     "price": "$200 per night",
     "reviewRating": {
       "average": 4.4,
       "totalReviews": 90
+    },
+    "overview": {
+      "description": "Experience the tranquility of the Rocky Mountains at Cozy Mountain Cabin, your secluded retreat in the heart of Aspen. Surrounded by pristine wilderness and towering pine trees, our cabin offers a cozy sanctuary for nature enthusiasts and adventure seekers alike. Whether you're skiing down powdery slopes, hiking through alpine meadows, or simply unwinding by the fireplace with a good book, you'll find solace and serenity in our mountain oasis.",
+      "amenities": [
+        "Rustic log cabin with modern comforts",
+        "Wood-burning fireplace and mountain views",
+        "Fully equipped kitchen and dining area",
+        "Outdoor deck with barbecue grill",
+        "Hiking trails and nature walks",
+        "Close proximity to ski resorts and outdoor activities",
+        "Wi-Fi and entertainment center"
+      ],
+      "activities": [
+        "Skiing, snowboarding, and snowshoeing",
+        "Fly fishing in mountain streams",
+        "Mountain biking on scenic trails",
+        "Wildlife viewing and birdwatching",
+        "Relaxing in natural hot springs"
+      ]
     }
   },
   {
     "id": 9,
     "name": "Modern City Hotel",
     "coverImage": "https://images.unsplash.com/photo-1504652517000-ae1068478c59?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1631049552240-59c37f38802b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1601638517319-2316349062cf?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1618221118493-9cfa1a1c00da?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Tokyo, Japan",
     "bio": "Discover the dynamic city of Tokyo at our modern city hotel. Enjoy sleek accommodations, innovative cuisine, and unparalleled hospitality.",
     "price": "$380 per night",
     "reviewRating": {
       "average": 4.7,
       "totalReviews": 160
+    },
+    "overview": {
+      "description": "Immerse yourself in the vibrant energy of Tokyo at Modern City Hotel, your stylish urban retreat in the heart of Japan's capital. Located amidst the bustling streets of Shibuya, our hotel offers contemporary accommodations, world-class dining, and convenient access to Tokyo's iconic landmarks and cultural attractions. Whether you're exploring the bustling neighborhoods of Harajuku and Shinjuku or discovering the serenity of traditional gardens and temples, Tokyo's eclectic charm awaits just outside our doors.",
+      "amenities": [
+        "Modern rooms and suites with city views",
+        "On-site restaurants serving Japanese and international cuisine",
+        "Rooftop bar with panoramic skyline views",
+        "Fitness center and wellness facilities",
+        "Business center and meeting rooms",
+        "Concierge service and tour desk",
+        "Complimentary Wi-Fi"
+      ],
+      "activities": [
+        "Shopping in Shibuya and Ginza",
+        "Visiting historic temples and shrines",
+        "Exploring Meiji Jingu and Yoyogi Park",
+        "Dining in Michelin-starred restaurants",
+        "Nightlife in Roppongi and Shinjuku"
+      ]
     }
   },
   {
     "id": 10,
     "name": "Desert Oasis Resort",
     "coverImage": "https://images.unsplash.com/photo-1549875648-357fef68fec7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1590490359854-dfba19688d70?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1631049035182-249067d7618e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?q=80&w=2057&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "location": "Dubai, United Arab Emirates",
     "bio": "Experience luxury in the desert at our oasis resort in Dubai. Enjoy world-class amenities, Arabian hospitality, and stunning desert landscapes.",
     "price": "$700 per night",
     "reviewRating": {
       "average": 4.9,
       "totalReviews": 190
+    },
+    "overview": {
+      "description": "Journey into the Arabian sands and discover an oasis of luxury at Desert Oasis Resort in Dubai. Nestled amidst vast dunes and tranquil desert landscapes, our resort offers a retreat like no other, where traditional Arabian hospitality meets modern indulgence. Relax in opulent accommodations, dine under the stars in Bedouin-inspired tents, and experience the thrill of desert adventures, from camel treks to dune bashing.",
+      "amenities": [
+        "Luxury tents and villas with desert views",
+        "Private plunge pools and outdoor terraces",
+        "Arabic-inspired spa and hammam",
+        "Gourmet dining under the stars",
+        "Desert safari and camel trekking",
+        "Sunset yoga and meditation",
+        "Complimentary Arabic coffee and dates"
+      ],
+      "activities": [
+        "Sunrise hot air balloon rides",
+        "4x4 desert safaris and dune bashing",
+        "Sandboarding on pristine dunes",
+        "Stargazing and astronomy sessions",
+        "Cultural experiences with Bedouin tribes"
+      ]
     }
   }
 ]

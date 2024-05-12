@@ -18,7 +18,7 @@ const SearchBar = () => {
           <h1 className="searchBarDateTitle">Check Out Date</h1>
           <input type="Date" />
         </div>
-        <CustomButton redirect="#" text="Search" />
+        <CustomButton text="Search" />
       </div>
     </section>
   );

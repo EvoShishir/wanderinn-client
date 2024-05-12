@@ -19,6 +19,10 @@ type Props = {
 };
 
 const HotelsContainer = ({ hotel }: Props) => {
+  const handleClick = () => {
+    window.location.href = `/hotels/${hotel.id}`;
+  };
+
   return (
     <div className="hotelsContainer">
       <img src={hotel.coverImage} alt="" />
@@ -31,7 +35,7 @@ const HotelsContainer = ({ hotel }: Props) => {
           totalReviews={hotel.reviewRating.totalReviews}
         />
         <h3>{hotel.price}</h3>
-        <CustomButton redirect="/hotels/single-hotel" text="See Availability" />
+        <CustomButton onClick={handleClick} text="See Availability" />
       </div>
     </div>
   );

@@ -3,26 +3,17 @@ import "./CustomButton.scss";
 
 type CustomButtonProps = {
   text: string;
-  redirect?: string;
-  styles?: string;
+  type?: "submit" | "reset" | "button";
+  onClick?: () => void;
 };
 
 const CustomButton: React.FC<CustomButtonProps> = ({
   text,
-  redirect,
-  styles,
+  type = "button",
+  onClick,
 }) => {
-  const handleClick = () => {
-    if (redirect) {
-      window.location.href = redirect;
-    }
-  };
-
   return (
-    <button
-      className={`customButton ${styles} font-light`}
-      onClick={handleClick}
-    >
+    <button type={type} className={`customButton font-light`} onClick={onClick}>
       {text}
     </button>
   );
